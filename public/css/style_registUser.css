@@ -1,0 +1,19 @@
+
+.message{
+	color:red;
+	text-align:center;
+}
+
+.user_title{
+	text-align:center;
+}
+
+table {
+	width:60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submitbutton{
+	text-align:center;
+}
